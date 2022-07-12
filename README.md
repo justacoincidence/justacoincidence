@@ -1,3 +1,4 @@
+<samp>
 <h1 align="center">justacoincidence</h1>
 <h3 align="center">Developer - Reverser - Leaker</h3>
 
@@ -6,3 +7,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justacoincidence&theme=dark&show_icons=true&locale=en" alt="justacoincidence" /></p>
+</samp>
